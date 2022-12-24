@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: fixedsys;
+  src: url(/public/fonts/fixedsys-ligatures.woff);
+}
